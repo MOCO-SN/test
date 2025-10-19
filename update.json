@@ -13,4 +13,11 @@
         "expirydate": "15-10-2025",
         "Allowoffline": false
     }
+    {
+        "device_id": "0e4cd7ce1faba3b8",
+        "username": "user2",
+        "password": "pass123",
+        "expirydate": "15-10-2025",
+        "Allowoffline": false
+    }
 ]
