@@ -1,0 +1,37 @@
+{
+    "success": true,
+    "expired": true,
+    "data": {
+        "analytics": {
+            "total_checks": 898,
+            "last_check": "2025-10-23 12:10:03"
+        },
+        "download_button": {
+            "text": "Download Update",
+            "link": "https:\/\/t.me\/+y_AggvIKX7hmMDM9"
+        },
+        "dialog_title": "MOD UPDATE REQUIRED",
+        "dialog_message": "Update to the latest Hunting mod menu \ud83d\udc4d",
+        "exit_button": "Exit Mod",
+        "colors": {
+            "primary": "#FF0000",
+            "secondary": "#00FF00",
+            "background": "#000000"
+        }
+    },
+    "dialog": {
+        "title": "MOD UPDATE REQUIRED",
+        "message": "Update to the latest Hunting mod menu \ud83d\udc4d",
+        "download_button": {
+            "text": "Download Update",
+            "link": "https:\/\/t.me\/+y_AggvIKX7hmMDM9"
+        },
+        "FFMainActivityX": "default_value",
+        "exit_button": "Exit Mod",
+        "colors": {
+            "primary": "#FF0000",
+            "secondary": "#00FF00",
+            "background": "#000000"
+        }
+    }
+}
